@@ -1,4 +1,7 @@
 # SmartHouseAPItest
+<b>2015-10-19</b>
+<br>MOXy parsing added. 
+<br>Pretty printing activated
 
 <b>2015-10-07</b>
 <br>minor changes in structure, Data class sclaed and migrated to replace envData.class
